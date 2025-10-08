@@ -90,25 +90,56 @@ Each solution package includes:
 
 ```
 solution-name/
-├── README.md                    # Solution overview
-├── metadata.yml                 # Structured metadata
-├── docs/                       # Technical documentation
-│   ├── architecture.md
-│   ├── prerequisites.md
-│   └── troubleshooting.md
-├── presales/                   # Business materials
-│   ├── business-case-template.md
-│   ├── executive-presentation-template.md
-│   └── roi-calculator-template.md
-└── delivery/                   # Implementation resources
-    ├── implementation-guide.md
-    ├── operations-runbook.md
-    └── scripts/                # Automation
-        ├── terraform/
-        ├── ansible/
-        ├── python/
-        ├── powershell/
-        └── bash/
+├── README.md                           # Solution overview and coordination
+├── metadata.yml                        # Structured solution metadata
+│
+├── presales/                          # Pre-sales and business materials
+│   ├── README.md                       # Presales process coordination
+│   ├── business-case.md                # ROI analysis and justification
+│   ├── executive-presentation.md       # Executive stakeholder materials
+│   ├── executive-presentation.pptx     # PowerPoint presentation
+│   ├── statement-of-work.md            # SOW template
+│   ├── roi-calculator.csv              # Financial impact calculator
+│   ├── level-of-effort-estimate.csv    # Project sizing and estimates
+│   └── requirements-questionnaire.csv  # Discovery framework
+│
+└── delivery/                          # Implementation and operations
+    ├── README.md                       # Delivery process overview
+    ├── detailed-design.md              # Technical architecture and design
+    ├── implementation-guide.md         # Step-by-step deployment procedures
+    ├── closeout-presentation.md        # Project closeout materials
+    ├── closeout-presentation.pptx      # PowerPoint presentation
+    ├── requirements.csv                # Requirements tracking
+    ├── project-plan.csv                # Project schedule and milestones
+    ├── communication-plan.csv          # Stakeholder communications
+    ├── roles.csv                       # Team roles and responsibilities
+    ├── test-plan.csv                   # Quality assurance procedures
+    ├── training-plan.csv               # User enablement strategy
+    ├── configuration.csv               # Configuration parameters
+    │
+    └── scripts/                       # Automation and deployment
+        ├── README.md                   # Scripts coordination
+        ├── terraform/                  # Infrastructure as Code
+        │   ├── README.md
+        │   ├── docs/
+        │   ├── environments/           # Multi-environment configs
+        │   │   ├── production/
+        │   │   ├── test/
+        │   │   └── disaster-recovery/
+        │   ├── modules/                # Reusable IaC modules
+        │   │   ├── aws/
+        │   │   ├── azure/
+        │   │   └── gcp/
+        │   └── scripts/                # Helper scripts
+        ├── ansible/                    # Configuration management
+        │   └── playbook.yml
+        ├── python/                     # Custom automation
+        │   ├── deploy.py
+        │   └── requirements.txt
+        ├── powershell/                 # Windows automation
+        │   └── Deploy-Solution.ps1
+        └── bash/                       # Linux/Unix automation
+            └── deploy.sh
 ```
 
 ## 🔍 Finding Solutions
