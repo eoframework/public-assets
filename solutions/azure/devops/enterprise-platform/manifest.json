@@ -1,0 +1,18 @@
+{
+  "solution": "enterprise-platform",
+  "provider": "azure",
+  "category": "devops",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/azure/devops/enterprise-platform/v1.0.0/enterprise-platform-v1.0.0.zip",
+      "size_mb": 0.09,
+      "sha256": "29db1963f272d87537689a75660c0326cb9f7ebff450930f43f8ae3b4fd7a0d4",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

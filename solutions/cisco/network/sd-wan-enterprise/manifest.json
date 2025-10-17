@@ -1,0 +1,18 @@
+{
+  "solution": "sd-wan-enterprise",
+  "provider": "cisco",
+  "category": "network",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/cisco/network/sd-wan-enterprise/v1.0.0/sd-wan-enterprise-v1.0.0.zip",
+      "size_mb": 0.05,
+      "sha256": "c002bf8777a581aa395c220361e207c8d40ff3e289556e097b6b756b7ae8ba07",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

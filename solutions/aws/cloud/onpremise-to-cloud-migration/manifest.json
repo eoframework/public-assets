@@ -1,0 +1,18 @@
+{
+  "solution": "onpremise-to-cloud-migration",
+  "provider": "aws",
+  "category": "cloud",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/aws/cloud/onpremise-to-cloud-migration/v1.0.0/onpremise-to-cloud-migration-v1.0.0.zip",
+      "size_mb": 0.11,
+      "sha256": "c19e0affbfb65adba5cdf82dcb5b827b85f5b6b59d6ab7318184b24133b9dc06",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "solution": "virtual-wan-global",
+  "provider": "azure",
+  "category": "network",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/azure/network/virtual-wan-global/v1.0.0/virtual-wan-global-v1.0.0.zip",
+      "size_mb": 0.08,
+      "sha256": "bd5de1f85fccc7fe9c56dcc9017fcbb663480a70adc6034c507b04196f5e7335",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

@@ -10,7 +10,7 @@
       "release_date": "2025-10-17",
       "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/aws/cloud/disaster-recovery-web-application/v1.0.0/disaster-recovery-web-application-v1.0.0.zip",
       "size_mb": 0.09,
-      "sha256": "f8b68da3d46802070108e43027e974c63dc80490fca69f5ec2c700e2afabf0b8",
+      "sha256": "6a49f13089442509d4ca096d072bfb3853cb7f13c4576c55687f9304ba61f6bb",
       "changelog": "Initial package release",
       "change_type": "patch"
     },

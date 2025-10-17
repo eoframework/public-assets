@@ -1,0 +1,18 @@
+{
+  "solution": "workspace",
+  "provider": "google",
+  "category": "modern-workspace",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/google/modern-workspace/workspace/v1.0.0/workspace-v1.0.0.zip",
+      "size_mb": 0.05,
+      "sha256": "e266ee462739e3a795fef59c4156a6373f16a1eb76a91cdb87ebf17801bff3e6",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "solution": "virtual-desktop",
+  "provider": "azure",
+  "category": "modern-workspace",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/azure/modern-workspace/virtual-desktop/v1.0.0/virtual-desktop-v1.0.0.zip",
+      "size_mb": 0.08,
+      "sha256": "bd9b99764a6dbbb010ddedb0f7131f64c1952b08d572eaa02f7df4c33e9dfe21",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

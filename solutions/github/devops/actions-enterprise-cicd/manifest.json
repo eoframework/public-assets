@@ -1,0 +1,18 @@
+{
+  "solution": "actions-enterprise-cicd",
+  "provider": "github",
+  "category": "devops",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/github/devops/actions-enterprise-cicd/v1.0.0/actions-enterprise-cicd-v1.0.0.zip",
+      "size_mb": 0.05,
+      "sha256": "83708dcdb0d4124f4aaaa74a7800037f7461c5ade591c8a39b143983eca68e3f",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

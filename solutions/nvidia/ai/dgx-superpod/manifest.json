@@ -1,0 +1,18 @@
+{
+  "solution": "dgx-superpod",
+  "provider": "nvidia",
+  "category": "ai",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/nvidia/ai/dgx-superpod/v1.0.0/dgx-superpod-v1.0.0.zip",
+      "size_mb": 0.06,
+      "sha256": "28c8888f61c0f6d98d0179437ea866f8185e525f8171e1475c1ae4622adea92f",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

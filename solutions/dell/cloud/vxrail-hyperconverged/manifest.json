@@ -1,0 +1,18 @@
+{
+  "solution": "vxrail-hyperconverged",
+  "provider": "dell",
+  "category": "cloud",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/dell/cloud/vxrail-hyperconverged/v1.0.0/vxrail-hyperconverged-v1.0.0.zip",
+      "size_mb": 0.06,
+      "sha256": "50055ec46166dc85668bf368678a17296912d56ab8d469d916711d8b7edddcff",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

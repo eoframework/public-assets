@@ -1,0 +1,18 @@
+{
+  "solution": "hybrid-infrastructure",
+  "provider": "cisco",
+  "category": "cloud",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/cisco/cloud/hybrid-infrastructure/v1.0.0/hybrid-infrastructure-v1.0.0.zip",
+      "size_mb": 0.06,
+      "sha256": "3c1955e3e8d93ebb652e70add2504a32d0346742692e0895ac7ec93728c69c0d",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

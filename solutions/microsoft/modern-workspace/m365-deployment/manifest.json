@@ -1,0 +1,18 @@
+{
+  "solution": "m365-deployment",
+  "provider": "microsoft",
+  "category": "modern-workspace",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/microsoft/modern-workspace/m365-deployment/v1.0.0/m365-deployment-v1.0.0.zip",
+      "size_mb": 0.06,
+      "sha256": "31107c92e32b198f211e6d1bbb5c7dfe694ae1ba6395c404cb0ee3681d37d7b7",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

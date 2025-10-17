@@ -1,0 +1,18 @@
+{
+  "solution": "terraform-enterprise",
+  "provider": "hashicorp",
+  "category": "devops",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/hashicorp/devops/terraform-enterprise/v1.0.0/terraform-enterprise-v1.0.0.zip",
+      "size_mb": 0.06,
+      "sha256": "2528e3b118dae1187ce31ee8ed616133bcc0439cfb61ee7935b89575ec378365",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "solution": "srx-firewall-platform",
+  "provider": "juniper",
+  "category": "cyber-security",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/juniper/cyber-security/srx-firewall-platform/v1.0.0/srx-firewall-platform-v1.0.0.zip",
+      "size_mb": 0.05,
+      "sha256": "511429c268793b4bcb44eabb3018dce8e588e5fac49be3511d6cd1a52c1bff6c",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "solution": "network-analytics",
+  "provider": "cisco",
+  "category": "ai",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/cisco/ai/network-analytics/v1.0.0/network-analytics-v1.0.0.zip",
+      "size_mb": 0.06,
+      "sha256": "24698d46a18a6aebb1e11fcdbd648415572a1be82ba90f5ff70557118f98075e",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

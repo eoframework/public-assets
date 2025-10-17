@@ -1,0 +1,18 @@
+{
+  "solution": "safeid-authentication",
+  "provider": "dell",
+  "category": "cyber-security",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/dell/cyber-security/safeid-authentication/v1.0.0/safeid-authentication-v1.0.0.zip",
+      "size_mb": 0.05,
+      "sha256": "f0f9ace8787e7ddb2112fed2a365282e172c7df6a47876c07d6a0b7d3de05c7e",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "solution": "ci-cd-automation",
+  "provider": "cisco",
+  "category": "devops",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/cisco/devops/ci-cd-automation/v1.0.0/ci-cd-automation-v1.0.0.zip",
+      "size_mb": 0.05,
+      "sha256": "fc3b128c14caf8d9339156be2a305adeeb83c20a9df3c93ad786686d23072df4",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

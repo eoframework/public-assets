@@ -1,0 +1,18 @@
+{
+  "solution": "gpu-compute-cluster",
+  "provider": "nvidia",
+  "category": "ai",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/nvidia/ai/gpu-compute-cluster/v1.0.0/gpu-compute-cluster-v1.0.0.zip",
+      "size_mb": 0.06,
+      "sha256": "6fc3be51e8fd62a660af5f65d90448e628dc8a9ade1c2ffef58985a58cfd3cf4",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}

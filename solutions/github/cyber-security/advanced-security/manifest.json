@@ -1,0 +1,18 @@
+{
+  "solution": "advanced-security",
+  "provider": "github",
+  "category": "cyber-security",
+  "current_version": "1.0.0",
+  "last_updated": "2025-10-17",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "release_date": "2025-10-17",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/github/cyber-security/advanced-security/v1.0.0/advanced-security-v1.0.0.zip",
+      "size_mb": 0.06,
+      "sha256": "4d4a7b5d71cb5caa6661d5f7f94fded9d8d70a4cbfd0a09cad6eaa41ad948079",
+      "changelog": "Initial package release",
+      "change_type": "patch"
+    }
+  ]
+}
