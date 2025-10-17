@@ -6,15 +6,6 @@
   "last_updated": "2025-10-17",
   "versions": [
     {
-      "version": "1.0.1",
-      "release_date": "2025-10-07",
-      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/aws/ai/intelligent-document-processing/v1.0.1/intelligent-document-processing-v1.0.1.zip",
-      "size_mb": 0.09,
-      "sha256": "27695da2609041170cd9c5c22a07064203c718e50aa14a66b0f65a23b2514be5",
-      "changelog": "Initial public release",
-      "change_type": "patch"
-    },
-    {
       "version": "1.0.0",
       "release_date": "2025-10-17",
       "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/aws/ai/intelligent-document-processing/v1.0.0/intelligent-document-processing-v1.0.0.zip",

@@ -13,15 +13,6 @@
       "sha256": "6a49f13089442509d4ca096d072bfb3853cb7f13c4576c55687f9304ba61f6bb",
       "changelog": "Initial package release",
       "change_type": "patch"
-    },
-    {
-      "version": "1.0.1",
-      "release_date": "2025-10-17",
-      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/aws/cloud/disaster-recovery-web-application/v1.0.1/disaster-recovery-web-application-v1.0.1.zip",
-      "size_mb": 0.09,
-      "sha256": "b6ca00c6ae8883d3a3d69997c4bf5380d364dadbb770b046932ac186242d56c2",
-      "changelog": "Test local packaging workflow - bypassing GitHub Actions",
-      "change_type": "patch"
     }
   ]
 }

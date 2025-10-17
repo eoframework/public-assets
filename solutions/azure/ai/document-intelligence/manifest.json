@@ -6,15 +6,6 @@
   "last_updated": "2025-10-17",
   "versions": [
     {
-      "version": "1.0.1",
-      "release_date": "2025-10-07",
-      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/azure/ai/document-intelligence/v1.0.1/document-intelligence-v1.0.1.zip",
-      "size_mb": 0.08,
-      "sha256": "06c1181d3a8a820e25b569b18ed3ce48606b5f9c3f3a80e02c5d18e07e039feb",
-      "changelog": "Initial public release",
-      "change_type": "patch"
-    },
-    {
       "version": "1.0.0",
       "release_date": "2025-10-17",
       "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/azure/ai/document-intelligence/v1.0.0/document-intelligence-v1.0.0.zip",
