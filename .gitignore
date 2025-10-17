@@ -1,5 +1,6 @@
 # Build and package artifacts
-*.zip
+# NOTE: We DO commit *.zip files - they are the distribution packages
+# *.zip - COMMENTED OUT - we need ZIPs in this repo
 *.tar.gz
 *.tgz
 
