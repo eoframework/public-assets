@@ -1,0 +1,40 @@
+provider: dell
+category: ai
+solution_name: precision-ai-workstation
+solution_display_name: Precision AI Workstation
+description: High-performance workstations for AI development
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- workstation
+- ai
+- precision
+- dell
+requirements:
+  prerequisites:
+  - DELL Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Ansible
+  skills:
+  - DELL Platform
+  - Solution Architecture
+  - Network Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/dell/ai/precision-ai-workstation
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/dell/ai/precision-ai-workstation
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/dell/ai/precision-ai-workstation
+  latest_tag: dell/ai/precision-ai-workstation-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/dell/ai/precision-ai-workstation
