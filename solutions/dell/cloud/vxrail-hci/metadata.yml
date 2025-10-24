@@ -1,0 +1,39 @@
+provider: dell
+category: cloud
+solution_name: vxrail-hci
+solution_display_name: VxRail HCI
+description: Hyperconverged infrastructure for simplified IT
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- cloud
+- vxrail
+- dell
+requirements:
+  prerequisites:
+  - DELL Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Ansible
+  skills:
+  - DELL Platform
+  - Solution Architecture
+  - Network Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/dell/cloud/vxrail-hci
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/dell/cloud/vxrail-hci
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/dell/cloud/vxrail-hci
+  latest_tag: dell/cloud/vxrail-hci-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/dell/cloud/vxrail-hci
