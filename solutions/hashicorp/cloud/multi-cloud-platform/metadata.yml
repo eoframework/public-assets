@@ -1,0 +1,41 @@
+provider: hashicorp
+category: cloud
+solution_name: multi-cloud-platform
+solution_display_name: Multi Cloud Platform
+description: Multi-cloud infrastructure management & automation
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- cloud
+- multi
+- platform
+- hashicorp
+requirements:
+  prerequisites:
+  - HASHICORP Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Terraform
+  - Vault CLI
+  skills:
+  - HASHICORP Platform
+  - Solution Architecture
+  - Infrastructure as Code
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/hashicorp/cloud/multi-cloud-platform
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/hashicorp/cloud/multi-cloud-platform
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/hashicorp/cloud/multi-cloud-platform
+  latest_tag: hashicorp/cloud/multi-cloud-platform-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/hashicorp/cloud/multi-cloud-platform
