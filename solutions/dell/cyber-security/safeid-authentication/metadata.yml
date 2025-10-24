@@ -1,0 +1,40 @@
+provider: dell
+category: cyber-security
+solution_name: safeid-authentication
+solution_display_name: Safeid Authentication
+description: Multi-factor authentication for secure access
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- safeid
+- authentication
+- dell
+- cyber-security
+requirements:
+  prerequisites:
+  - DELL Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Ansible
+  skills:
+  - DELL Platform
+  - Solution Architecture
+  - Network Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/dell/cyber-security/safeid-authentication
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/dell/cyber-security/safeid-authentication
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/dell/cyber-security/safeid-authentication
+  latest_tag: dell/cyber-security/safeid-authentication-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/dell/cyber-security/safeid-authentication
