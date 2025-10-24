@@ -1,0 +1,39 @@
+provider: cisco
+category: devops
+solution_name: ci-cd-automation
+solution_display_name: Network Infrastructure Pipeline
+description: Network-aware CI/CD for infrastructure automation
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- automation
+- devops
+- cisco
+requirements:
+  prerequisites:
+  - CISCO Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Ansible
+  skills:
+  - CISCO Platform
+  - Solution Architecture
+  - Network Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/cisco/devops/ci-cd-automation
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/cisco/devops/ci-cd-automation
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/cisco/devops/ci-cd-automation
+  latest_tag: cisco/devops/ci-cd-automation-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/cisco/devops/ci-cd-automation
