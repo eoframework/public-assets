@@ -1,0 +1,40 @@
+provider: google
+category: modern-workspace
+solution_name: workspace
+solution_display_name: Workspace
+description: Collaborative digital workspace for modern teams
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- workspace
+- modern-workspace
+- google
+requirements:
+  prerequisites:
+  - GOOGLE Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - gcloud CLI
+  - Terraform
+  skills:
+  - GOOGLE Platform
+  - Solution Architecture
+  - GCP Services
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/google/modern-workspace/workspace
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/google/modern-workspace/workspace
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/google/modern-workspace/workspace
+  latest_tag: google/modern-workspace/workspace-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/google/modern-workspace/workspace
