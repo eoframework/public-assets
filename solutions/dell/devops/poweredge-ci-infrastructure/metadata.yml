@@ -1,0 +1,40 @@
+provider: dell
+category: devops
+solution_name: poweredge-ci-infrastructure
+solution_display_name: Poweredge Ci Infrastructure
+description: Enterprise CI infrastructure on PowerEdge servers
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- dell
+- poweredge
+- devops
+- infrastructure
+requirements:
+  prerequisites:
+  - DELL Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Ansible
+  skills:
+  - DELL Platform
+  - Solution Architecture
+  - Network Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/dell/devops/poweredge-ci-infrastructure
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/dell/devops/poweredge-ci-infrastructure
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/dell/devops/poweredge-ci-infrastructure
+  latest_tag: dell/devops/poweredge-ci-infrastructure-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/dell/devops/poweredge-ci-infrastructure
