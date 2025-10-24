@@ -1,7 +1,40 @@
-# {SOLUTION_NAME} - Enterprise Solution
+# Disaster Recovery Web Application - Enterprise Solution
+## 📥 Access This Solution
 
-![Provider](https://img.shields.io/badge/Provider-{PROVIDER_NAME}-blue)
-![Category](https://img.shields.io/badge/Category-{CATEGORY_NAME}-green)
+This solution is available in the [EO Framework Public Assets](https://github.com/eoframework/public-assets) repository.
+
+### Quick Download
+
+**Option 1: Using Helper Script**
+```bash
+curl -O https://raw.githubusercontent.com/eoframework/public-assets/main/download-solution.sh
+chmod +x download-solution.sh
+./download-solution.sh aws/cloud/disaster-recovery-web-application
+```
+
+**Option 2: Git Sparse Checkout (Recommended)**
+```bash
+# Clone with sparse checkout
+git clone --filter=blob:none --sparse https://github.com/eoframework/public-assets.git
+cd public-assets
+
+# Checkout this specific solution
+git sparse-checkout set solutions/aws/cloud/disaster-recovery-web-application
+
+# View the solution
+cd solutions/aws/cloud/disaster-recovery-web-application
+ls -la
+```
+
+**Option 3: Browse on GitHub**
+- View online: https://github.com/eoframework/public-assets/tree/main/solutions/aws/cloud/disaster-recovery-web-application
+
+---
+
+
+
+![Provider](https://img.shields.io/badge/Provider-AWS-blue)
+![Category](https://img.shields.io/badge/Category-Cloud-green)
 ![Complexity](https://img.shields.io/badge/Complexity-{COMPLEXITY_LEVEL}-orange)
 ![Status](https://img.shields.io/badge/Status-{SOLUTION_STATUS}-purple)
 
@@ -13,7 +46,7 @@ This comprehensive enterprise solution provides **{PRIMARY_BUSINESS_VALUE}** thr
 
 ### 🔑 **Key Characteristics**
 - **Provider**: {PROVIDER_FORMAL}
-- **Category**: {CATEGORY_NAME} Solutions
+- **Category**: Cloud Solutions
 - **Complexity Level**: {COMPLEXITY_LEVEL}
 - **Deployment Timeline**: {DEPLOYMENT_TIME}
 - **Target Industries**: {TARGET_INDUSTRIES}
@@ -235,7 +268,7 @@ python3 deploy.py --environment production
 
 ---
 
-**📍 Solution Version**: {VERSION}  
+**📍 Solution Version**: 1.0.0  
 **Last Updated**: {CURRENT_DATE}  
 **Author**: {AUTHOR_NAME} <{AUTHOR_EMAIL}>  
 **Status**: ✅ Production Ready
