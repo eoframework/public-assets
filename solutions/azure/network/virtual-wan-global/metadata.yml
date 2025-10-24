@@ -1,0 +1,41 @@
+provider: azure
+category: network
+solution_name: virtual-wan-global
+solution_display_name: Virtual Wan Global
+description: Global WAN connectivity for distributed enterprises
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- azure
+- global
+- virtual
+- network
+requirements:
+  prerequisites:
+  - AZURE Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Azure CLI
+  - PowerShell
+  skills:
+  - AZURE Platform
+  - Solution Architecture
+  - Azure Services
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/azure/network/virtual-wan-global
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/azure/network/virtual-wan-global
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/azure/network/virtual-wan-global
+  latest_tag: azure/network/virtual-wan-global-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/azure/network/virtual-wan-global
