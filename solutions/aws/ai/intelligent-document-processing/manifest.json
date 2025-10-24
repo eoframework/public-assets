@@ -2,9 +2,18 @@
   "solution": "intelligent-document-processing",
   "provider": "aws",
   "category": "ai",
-  "current_version": "1.0.0",
-  "last_updated": "2025-10-17",
+  "current_version": "1.0.1",
+  "last_updated": "2025-10-24",
   "versions": [
+    {
+      "version": "1.0.1",
+      "release_date": "2025-10-24",
+      "download_url": "https://github.com/eoframework/public-assets/raw/main/solutions/aws/ai/intelligent-document-processing/v1.0.1/intelligent-document-processing-v1.0.1.zip",
+      "size_mb": 0.09,
+      "sha256": "a97d9339419c6ab5bfbf3e299f25600569df83794676c57d85fd50f56d77ff39",
+      "changelog": "Automated release from templates@62ab17ea0746fe5596e0533165ab408b4494d36a",
+      "change_type": "patch"
+    },
     {
       "version": "1.0.0",
       "release_date": "2025-10-17",
