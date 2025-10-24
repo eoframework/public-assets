@@ -1,0 +1,41 @@
+provider: azure
+category: modern-workspace
+solution_name: virtual-desktop
+solution_display_name: Virtual Desktop
+description: Secure remote desktop for modern workforce productivity
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- azure
+- modern-workspace
+- virtual
+- desktop
+requirements:
+  prerequisites:
+  - AZURE Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Azure CLI
+  - PowerShell
+  skills:
+  - AZURE Platform
+  - Solution Architecture
+  - Azure Services
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/azure/modern-workspace/virtual-desktop
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/azure/modern-workspace/virtual-desktop
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/azure/modern-workspace/virtual-desktop
+  latest_tag: azure/modern-workspace/virtual-desktop-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/azure/modern-workspace/virtual-desktop
