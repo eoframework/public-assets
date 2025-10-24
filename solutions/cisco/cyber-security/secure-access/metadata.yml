@@ -1,0 +1,40 @@
+provider: cisco
+category: cyber-security
+solution_name: secure-access
+solution_display_name: Zero Trust Network Gateway
+description: Zero-trust network access for enhanced security
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- secure
+- access
+- cyber-security
+- cisco
+requirements:
+  prerequisites:
+  - CISCO Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Ansible
+  skills:
+  - CISCO Platform
+  - Solution Architecture
+  - Network Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/cisco/cyber-security/secure-access
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/cisco/cyber-security/secure-access
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/cisco/cyber-security/secure-access
+  latest_tag: cisco/cyber-security/secure-access-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/cisco/cyber-security/secure-access
