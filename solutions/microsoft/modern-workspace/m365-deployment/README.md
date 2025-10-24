@@ -1,4 +1,37 @@
 # Microsoft M365 Deployment Solution
+## 📥 Access This Solution
+
+This solution is available in the [EO Framework Public Assets](https://github.com/eoframework/public-assets) repository.
+
+### Quick Download
+
+**Option 1: Using Helper Script**
+```bash
+curl -O https://raw.githubusercontent.com/eoframework/public-assets/main/download-solution.sh
+chmod +x download-solution.sh
+./download-solution.sh microsoft/modern-workspace/m365-deployment
+```
+
+**Option 2: Git Sparse Checkout (Recommended)**
+```bash
+# Clone with sparse checkout
+git clone --filter=blob:none --sparse https://github.com/eoframework/public-assets.git
+cd public-assets
+
+# Checkout this specific solution
+git sparse-checkout set solutions/microsoft/modern-workspace/m365-deployment
+
+# View the solution
+cd solutions/microsoft/modern-workspace/m365-deployment
+ls -la
+```
+
+**Option 3: Browse on GitHub**
+- View online: https://github.com/eoframework/public-assets/tree/main/solutions/microsoft/modern-workspace/m365-deployment
+
+---
+
+
 
 ## Solution Overview
 
