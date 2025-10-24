@@ -1,0 +1,41 @@
+provider: nvidia
+category: modern-workspace
+solution_name: omniverse-enterprise
+solution_display_name: Omniverse Enterprise
+description: Real-time collaboration platform for 3D workflows
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- enterprise
+- omniverse
+- modern-workspace
+- nvidia
+requirements:
+  prerequisites:
+  - NVIDIA Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - CUDA Toolkit
+  - Docker
+  skills:
+  - NVIDIA Platform
+  - Solution Architecture
+  - AI/ML Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/nvidia/modern-workspace/omniverse-enterprise
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/nvidia/modern-workspace/omniverse-enterprise
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/nvidia/modern-workspace/omniverse-enterprise
+  latest_tag: nvidia/modern-workspace/omniverse-enterprise-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/nvidia/modern-workspace/omniverse-enterprise
