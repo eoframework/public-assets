@@ -1,0 +1,40 @@
+provider: cisco
+category: cloud
+solution_name: hybrid-infrastructure
+solution_display_name: HyperFlex Cloud Bridge
+description: Seamless hybrid cloud infrastructure integration
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- cloud
+- infrastructure
+- hybrid
+- cisco
+requirements:
+  prerequisites:
+  - CISCO Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Ansible
+  skills:
+  - CISCO Platform
+  - Solution Architecture
+  - Network Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/cisco/cloud/hybrid-infrastructure
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/cisco/cloud/hybrid-infrastructure
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/cisco/cloud/hybrid-infrastructure
+  latest_tag: cisco/cloud/hybrid-infrastructure-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/cisco/cloud/hybrid-infrastructure
