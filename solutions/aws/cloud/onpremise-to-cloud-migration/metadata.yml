@@ -1,0 +1,41 @@
+provider: aws
+category: cloud
+solution_name: onpremise-to-cloud-migration
+solution_display_name: Onpremise To Cloud Migration
+description: Seamless enterprise migration to modern cloud platform
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- cloud
+- onpremise
+- aws
+- migration
+requirements:
+  prerequisites:
+  - AWS Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - AWS CLI
+  - Terraform
+  skills:
+  - AWS Platform
+  - Solution Architecture
+  - AWS Services
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/aws/cloud/onpremise-to-cloud-migration
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/aws/cloud/onpremise-to-cloud-migration
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/aws/cloud/onpremise-to-cloud-migration
+  latest_tag: aws/cloud/onpremise-to-cloud-migration-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/aws/cloud/onpremise-to-cloud-migration
