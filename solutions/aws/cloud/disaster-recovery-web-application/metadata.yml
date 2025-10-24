@@ -1,0 +1,42 @@
+provider: aws
+category: cloud
+solution_name: disaster-recovery-web-application
+solution_display_name: Disaster Recovery Web Application
+description: Rapid business continuity with automated failover
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- cloud
+- application
+- recovery
+- disaster
+- aws
+requirements:
+  prerequisites:
+  - AWS Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - AWS CLI
+  - Terraform
+  skills:
+  - AWS Platform
+  - Solution Architecture
+  - AWS Services
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/aws/cloud/disaster-recovery-web-application
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/aws/cloud/disaster-recovery-web-application
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/aws/cloud/disaster-recovery-web-application
+  latest_tag: aws/cloud/disaster-recovery-web-application-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/aws/cloud/disaster-recovery-web-application
