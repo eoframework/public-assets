@@ -1,0 +1,41 @@
+provider: hashicorp
+category: devops
+solution_name: terraform-enterprise
+solution_display_name: Terraform Enterprise
+description: Enterprise infrastructure as code platform
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- enterprise
+- terraform
+- hashicorp
+- devops
+requirements:
+  prerequisites:
+  - HASHICORP Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Terraform
+  - Vault CLI
+  skills:
+  - HASHICORP Platform
+  - Solution Architecture
+  - Infrastructure as Code
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/hashicorp/devops/terraform-enterprise
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/hashicorp/devops/terraform-enterprise
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/hashicorp/devops/terraform-enterprise
+  latest_tag: hashicorp/devops/terraform-enterprise-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/hashicorp/devops/terraform-enterprise
