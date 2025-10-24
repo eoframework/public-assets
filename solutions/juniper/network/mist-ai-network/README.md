@@ -1,4 +1,37 @@
 # Juniper Mist Ai Network Solution
+## 📥 Access This Solution
+
+This solution is available in the [EO Framework Public Assets](https://github.com/eoframework/public-assets) repository.
+
+### Quick Download
+
+**Option 1: Using Helper Script**
+```bash
+curl -O https://raw.githubusercontent.com/eoframework/public-assets/main/download-solution.sh
+chmod +x download-solution.sh
+./download-solution.sh juniper/network/mist-ai-network
+```
+
+**Option 2: Git Sparse Checkout (Recommended)**
+```bash
+# Clone with sparse checkout
+git clone --filter=blob:none --sparse https://github.com/eoframework/public-assets.git
+cd public-assets
+
+# Checkout this specific solution
+git sparse-checkout set solutions/juniper/network/mist-ai-network
+
+# View the solution
+cd solutions/juniper/network/mist-ai-network
+ls -la
+```
+
+**Option 3: Browse on GitHub**
+- View online: https://github.com/eoframework/public-assets/tree/main/solutions/juniper/network/mist-ai-network
+
+---
+
+
 
 ## Solution Overview
 
