@@ -1,0 +1,40 @@
+provider: nvidia
+category: ai
+solution_name: dgx-superpod
+solution_display_name: DGX SuperPOD
+description: High-performance computing for AI model training
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- ai
+- superpod
+- nvidia
+requirements:
+  prerequisites:
+  - NVIDIA Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - CUDA Toolkit
+  - Docker
+  skills:
+  - NVIDIA Platform
+  - Solution Architecture
+  - AI/ML Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/nvidia/ai/dgx-superpod
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/nvidia/ai/dgx-superpod
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/nvidia/ai/dgx-superpod
+  latest_tag: nvidia/ai/dgx-superpod-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/nvidia/ai/dgx-superpod
