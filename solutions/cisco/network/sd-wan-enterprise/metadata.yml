@@ -1,0 +1,39 @@
+provider: cisco
+category: network
+solution_name: sd-wan-enterprise
+solution_display_name: SD-WAN Enterprise
+description: Enterprise SD-WAN for optimized branch connectivity
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- network
+- enterprise
+- cisco
+requirements:
+  prerequisites:
+  - CISCO Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Ansible
+  skills:
+  - CISCO Platform
+  - Solution Architecture
+  - Network Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/cisco/network/sd-wan-enterprise
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/cisco/network/sd-wan-enterprise
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/cisco/network/sd-wan-enterprise
+  latest_tag: cisco/network/sd-wan-enterprise-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/cisco/network/sd-wan-enterprise
