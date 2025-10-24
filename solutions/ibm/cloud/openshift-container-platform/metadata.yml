@@ -1,0 +1,42 @@
+provider: ibm
+category: cloud
+solution_name: openshift-container-platform
+solution_display_name: Openshift Container Platform
+description: Enterprise container platform for modern applications
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- cloud
+- platform
+- openshift
+- ibm
+- container
+requirements:
+  prerequisites:
+  - IBM Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - OpenShift CLI
+  - Ansible
+  skills:
+  - IBM Platform
+  - Solution Architecture
+  - Container Platforms
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/ibm/cloud/openshift-container-platform
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/ibm/cloud/openshift-container-platform
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/ibm/cloud/openshift-container-platform
+  latest_tag: ibm/cloud/openshift-container-platform-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/ibm/cloud/openshift-container-platform
