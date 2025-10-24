@@ -1,0 +1,42 @@
+provider: github
+category: devops
+solution_name: actions-enterprise-cicd
+solution_display_name: GitHub Workflow Automation
+description: Enterprise CI/CD automation & workflow management
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- cicd
+- github
+- enterprise
+- devops
+- actions
+requirements:
+  prerequisites:
+  - GITHUB Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - GitHub CLI
+  - Git
+  skills:
+  - GITHUB Platform
+  - Solution Architecture
+  - DevOps Practices
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/github/devops/actions-enterprise-cicd
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/github/devops/actions-enterprise-cicd
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/github/devops/actions-enterprise-cicd
+  latest_tag: github/devops/actions-enterprise-cicd-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/github/devops/actions-enterprise-cicd
