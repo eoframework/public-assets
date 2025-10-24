@@ -1,0 +1,42 @@
+provider: azure
+category: cloud
+solution_name: enterprise-landing-zone
+solution_display_name: Enterprise Landing Zone
+description: Secure Azure foundation for enterprise workloads
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- cloud
+- azure
+- landing
+- enterprise
+- zone
+requirements:
+  prerequisites:
+  - AZURE Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Azure CLI
+  - PowerShell
+  skills:
+  - AZURE Platform
+  - Solution Architecture
+  - Azure Services
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/azure/cloud/enterprise-landing-zone
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/azure/cloud/enterprise-landing-zone
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/azure/cloud/enterprise-landing-zone
+  latest_tag: azure/cloud/enterprise-landing-zone-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/azure/cloud/enterprise-landing-zone
