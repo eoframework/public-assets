@@ -1,0 +1,41 @@
+provider: azure
+category: devops
+solution_name: enterprise-platform
+solution_display_name: DevOps Pipeline Factory
+description: DevOps platform for accelerated software delivery
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- azure
+- enterprise
+- platform
+- devops
+requirements:
+  prerequisites:
+  - AZURE Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Azure CLI
+  - PowerShell
+  skills:
+  - AZURE Platform
+  - Solution Architecture
+  - Azure Services
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/azure/devops/enterprise-platform
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/azure/devops/enterprise-platform
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/azure/devops/enterprise-platform
+  latest_tag: azure/devops/enterprise-platform-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/azure/devops/enterprise-platform
