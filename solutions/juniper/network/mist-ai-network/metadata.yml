@@ -1,0 +1,39 @@
+provider: juniper
+category: network
+solution_name: mist-ai-network
+solution_display_name: Mist AI Network
+description: AI-driven network operations & user experiences
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- network
+- juniper
+- mist
+requirements:
+  prerequisites:
+  - JUNIPER Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - Ansible
+  skills:
+  - JUNIPER Platform
+  - Solution Architecture
+  - Network Infrastructure
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/juniper/network/mist-ai-network
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/juniper/network/mist-ai-network
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/juniper/network/mist-ai-network
+  latest_tag: juniper/network/mist-ai-network-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/juniper/network/mist-ai-network
