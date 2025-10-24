@@ -59,8 +59,8 @@ For detailed deployment steps, see [`delivery/scripts/README.md`](delivery/scrip
 
 ## 📄 License
 
-This solution is licensed under the Business Source License 1.1 (BSL 1.1).
+See: https://www.eoframework.org/license/
 
 ---
 
-**EO Framework™** - Enterprise Optimization Solutions
+**[EO Framework™](https://eoframework.org)** - Exceptional Outcome Framework
