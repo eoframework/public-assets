@@ -1,0 +1,41 @@
+provider: microsoft
+category: modern-workspace
+solution_name: m365-deployment
+solution_display_name: Microsoft 365 Deployment
+description: Complete Microsoft 365 enterprise deployment
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- microsoft
+- deployment
+- modern-workspace
+- m365
+requirements:
+  prerequisites:
+  - MICROSOFT Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - PowerShell
+  - Microsoft Graph
+  skills:
+  - MICROSOFT Platform
+  - Solution Architecture
+  - Microsoft 365
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/microsoft/modern-workspace/m365-deployment
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/microsoft/modern-workspace/m365-deployment
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/microsoft/modern-workspace/m365-deployment
+  latest_tag: microsoft/modern-workspace/m365-deployment-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/microsoft/modern-workspace/m365-deployment
