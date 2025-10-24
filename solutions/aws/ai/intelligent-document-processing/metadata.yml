@@ -1,0 +1,42 @@
+provider: aws
+category: ai
+solution_name: intelligent-document-processing
+solution_display_name: Intelligent Document Processing
+description: Automate document insights with AI-driven extraction
+version: 1.0.0
+status: In Review
+maintainers:
+- name: EO Framework Solutions Team
+  email: support@eoframework.com
+  role: Solutions Architect
+tags:
+- document
+- ai
+- intelligent
+- processing
+- aws
+requirements:
+  prerequisites:
+  - AWS Account
+  - Administrative Access
+  tools:
+  - Python 3.8+
+  - AWS CLI
+  - Terraform
+  skills:
+  - AWS Platform
+  - Solution Architecture
+  - AWS Services
+repository:
+  url: https://github.com/eoframework/public-assets
+  type: git
+  path: solutions/aws/ai/intelligent-document-processing
+  clone_url: https://github.com/eoframework/public-assets.git
+access:
+  browse_url: https://github.com/eoframework/public-assets/tree/main/solutions/aws/ai/intelligent-document-processing
+  raw_url: https://raw.githubusercontent.com/eoframework/public-assets/main/solutions/aws/ai/intelligent-document-processing
+  latest_tag: aws/ai/intelligent-document-processing-v1.0.0
+support:
+  website: https://eoframework.com/solutions
+  email: support@eoframework.com
+  documentation: https://docs.eoframework.com/solutions/aws/ai/intelligent-document-processing
